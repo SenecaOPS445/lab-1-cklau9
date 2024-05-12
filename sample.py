@@ -4,6 +4,7 @@
    Program name: sample.py
    Date Created: May 2020
 
+
    Usage: sample.py [base_name]
 
    A list of subdictories will be created under $HOME/[base_name]/dir_list
