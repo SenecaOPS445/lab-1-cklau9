@@ -7,7 +7,6 @@ Date: November 2, 2016
 Updated by: Raymond Chan
 Date: September 5, 2019
 
-
 Updated: Septemeber 25, 2019 by Raymond Chan
 Reason: (1) package name changes: python36 --> python3
                                   python36-pip --> python3-pip
