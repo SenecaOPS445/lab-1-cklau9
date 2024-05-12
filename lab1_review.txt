@@ -1,0 +1,45 @@
+1.  What is a git repository?
+
+A Git repository is a storage location where a project's files and history are kept, allowing multiple people to collaborate on the same codebase.
+
+2.  What kinds of data can be stored in a git repository?
+
+A Git repository can store various types of data, including source code files, images, documents, configuration files, and any other type of file used in a project.
+
+3.  What is a git branch?
+
+A Git branch is a parallel version of a repository's codebase. It allows for the development of new features or bug fixes without affecting the main codebase (usually called the "master" or "main" branch).
+
+4.  What is the name of the definitive branch in a git repository?
+
+The definitive branch in a Git repository is typically called the "master" branch, although some projects now use "main" as the default branch name for improved inclusivity.
+
+5.  What is a "pull request" related to a branch in a git repository?
+
+A pull request is a request to merge changes from one branch into another. It's commonly used for code review and collaboration, allowing team members to discuss changes before merging them into the main codebase.
+
+6.  Write Python code that when run, will perform the following tasks:
+    Contain a she-bang line
+    Display a greetings message to the user
+    display an empty line (hint: use the special character \n to print the a new-line character)
+    Display text, "Your current directory is:" (You are NOT required to display quotation marks)
+    Display the current working directory pathname (using an appropriate command)
+    Display another empty line
+    
+    #!/usr/bin/env python3
+    
+    # Greetings message
+	print("Hello! Welcome to this Python script.")
+
+    # Display an empty line
+	print()
+
+    # Display current directory message
+	print("Your current directory is:")
+
+    # Display current working directory
+	import os
+	print(os.getcwd())
+
+# Display another empty line
+print()

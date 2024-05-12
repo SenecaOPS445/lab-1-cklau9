@@ -1,5 +1,13 @@
 #!/usr/bin/env python3
-'''Description: This program will output "hello world" to the screen.'''
+'''
+To gain practice, complete your Python script with the following content and details:
+
+    The script should have a Shebang line like you did for your lab1a.py python script
+    The script should use a single object called "name"
+    The value of the "name" object should be "Isaac"
+    The script, when executed, should print out "How old are you Isaac?"
+
+'''
 
 # Any line that starts with a "#" is also known as a comment,
 # these lines are ignored by the python interpreter even if
